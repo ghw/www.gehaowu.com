@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /dist/
+Disallow: /dist.new/
+Disallow: /dist.old/
+Disallow: /profiles/
+Allow: /
+
